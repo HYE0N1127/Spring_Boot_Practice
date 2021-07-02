@@ -1,4 +1,4 @@
-package kr.hs.dgsw.hyeonbin.Spring_Boot_Practice;
+package kr.hs.dgsw.Spring_Boot_Practice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
